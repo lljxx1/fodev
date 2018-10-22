@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "46f068f8aa1800f1ad6f",
-    "url": "/js/chunk-vendors.3a5f1f69.js"
+    "revision": "f46a6cb0e64d714a19a6",
+    "url": "/js/chunk-vendors.2b39e158.js"
   },
   {
     "revision": "0e6261ecb434343c57e2",
     "url": "/js/chunk-2d22bd91.8b0483ff.js"
   },
   {
-    "revision": "a09d7837218a5a587fda",
-    "url": "/js/app.2b5f3212.js"
+    "revision": "0983cf79a04e81885454",
+    "url": "/js/app.708af5f6.js"
   },
   {
-    "revision": "8c3bed12cde2ddd868aa69d4d7b53322",
+    "revision": "d7c3fab9934c36ea72df999fa3726087",
     "url": "/index.html"
   },
   {
@@ -28,11 +28,15 @@ self.__precacheManifest = [
     "url": "/img/ironman.d6c103c3.png"
   },
   {
-    "revision": "46f068f8aa1800f1ad6f",
-    "url": "/css/chunk-vendors.0a7216b5.css"
+    "revision": "573255ced07e00d35d8d1eb071608132",
+    "url": "/img/iconfont.573255ce.svg"
   },
   {
-    "revision": "a09d7837218a5a587fda",
-    "url": "/css/app.6d0e8bd5.css"
+    "revision": "f46a6cb0e64d714a19a6",
+    "url": "/css/chunk-vendors.7ea8f62c.css"
+  },
+  {
+    "revision": "0983cf79a04e81885454",
+    "url": "/css/app.ae045ac6.css"
   }
 ];
